@@ -1,6 +1,7 @@
 # Editor
 Um editor de texto com formatação Rich-Text - WYSIWYG. 
 <br>
+<br>
 O projeto criado tem a função de realizar as seguintes operações:
 - Formatar texto (em negrito, itálico, sublinhar ou tachar);
 - Criar listas numeradas e com marcador;
