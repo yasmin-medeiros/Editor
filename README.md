@@ -10,7 +10,10 @@ O projeto criado tem a função de realizar as seguintes operações:
 - Remover a formatação.
 <br>
 
-## Criado com 🌐👩🏻‍💻:
+## 🌐👩 Tecnologias 
+
+#### As seguintes ferramentas foram usadas na construção do projeto: 
+
 - HTML
 - CSS
 - JavaScript
