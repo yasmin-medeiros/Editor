@@ -1,5 +1,18 @@
-# Editor
-Um editor de texto com formatação Rich-Text
+## Editor
+Um editor de texto com formatação Rich-Text - WYSIWYG. 
+<br>
+O projeto criado tem a função de realizar as seguintes operações:
+- Formatar texto (em negrito, itálico, sublinhar ou tachar);
+- Criar listas numeradas e com marcador;
+- Inserir um hiperlink;
+- Mudar a cor da fonte ou tamanho da fonte;
+- Remover a formatação.
+- <br>
+
+#Criado com https://www.emojiall.com/pt/emoji/%F0%9F%8C%90; https://www.emojiall.com/pt/emoji/%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB:
+- HTML
+- CSS
+- JavaScript
 
   <div align= "center">
 <img width="626" alt="Imagem 1" src="https://user-images.githubusercontent.com/89019231/152051597-79c6d3b8-1453-4e8a-ae27-89699c5c8cca.png">
