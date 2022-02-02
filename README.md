@@ -3,10 +3,15 @@ Um editor de texto com formatação Rich-Text - WYSIWYG.
 <br>
 <br>
 O projeto criado tem a função de realizar as seguintes operações:
+<br>
 ➡ Formatar texto (em negrito, itálico, sublinhar ou tachar)
+<br>
 ➡ Criar listas numeradas e com marcador
+<br>
 ➡ Inserir um hiperlink
+<br>
 ➡ Mudar a cor da fonte ou tamanho da fonte
+<br>
 ➡ Remover a formatação
 <br>
 
