@@ -4,6 +4,7 @@ Um editor de texto com formatação Rich-Text - WYSIWYG.
 <br>
 O projeto criado tem a função de realizar as seguintes operações:
 <br>
+<br>
 ➡ Formatar texto (em negrito, itálico, sublinhar ou tachar)
 <br>
 ➡ Criar listas numeradas e com marcador
