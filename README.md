@@ -23,7 +23,6 @@ O projeto criado tem a função de realizar as seguintes operações:
 - HTML
 - CSS
 - JavaScript
-<br>
 
 ## Layout da Aplicação 💨
 
