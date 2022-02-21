@@ -24,6 +24,7 @@ O projeto criado tem a função de realizar as seguintes operações:
 - CSS
 - JavaScript
 <br>
+
 ## Layout da Aplicação 💨
 
   <div align= "center">
