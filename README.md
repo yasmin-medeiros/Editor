@@ -16,7 +16,7 @@ O projeto criado tem a função de realizar as seguintes operações:
 ➡ Remover a formatação
 <br>
 
-## 🌐👩🏻‍💻 Tecnologias 
+## Tecnologias 🌐👩🏻‍💻 
 
 #### As seguintes ferramentas foram usadas na construção do projeto: 
 
@@ -24,7 +24,6 @@ O projeto criado tem a função de realizar as seguintes operações:
 - CSS
 - JavaScript
 <br>
-
 ## Layout da Aplicação 💨
 
   <div align= "center">
