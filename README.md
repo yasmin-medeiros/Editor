@@ -31,3 +31,6 @@ O projeto criado tem a função de realizar as seguintes operações:
   <div align= "center">
 <img width="627" alt="Imagem 2 - teste" src="https://user-images.githubusercontent.com/89019231/152051936-e649257d-a7ab-4c13-9ae9-5f17227147fd.png">
   </div>
+  <br>
+  <br>
+  Status do projeto: ✅
